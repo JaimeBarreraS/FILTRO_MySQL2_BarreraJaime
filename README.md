@@ -62,7 +62,7 @@ Siga estos pasos para configurar el entorno y cargar la base de datos:
 
 ## **Instalación General** 🛠️
 
-El sistema de gestión de datos está distribuido en archivos SQL organizados en ocho partes y archivos adicionales para facilitar su implementación y comprensión. A continuación, se detalla el contenido y los pasos para su instalación.
+El sistema de gestión de datos está distribuido en archivos SQL organizados en 6 partes y archivos adicionales para facilitar su implementación y comprensión. A continuación, se detalla el contenido y los pasos para su instalación.
 
 ### **Archivos Relacionados**  
 1. **`ddl.sql` (Creación de base de datos con tablas y relaciones):**  
